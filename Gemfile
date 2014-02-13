@@ -33,7 +33,6 @@ gem 'jquery-rails'
 gem 'geocoder'
 gem 'gmaps4rails'
 
-ruby '2.0.0'
 
 
 # To use ActiveModel has_secure_password
